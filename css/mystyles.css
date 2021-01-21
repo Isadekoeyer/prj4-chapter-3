@@ -1,0 +1,16 @@
+body {
+	background-color: aliceblue;
+	color: rebeccapurple;
+	font-family: open sans; 
+}
+h1 { 
+	background-color:deepskyblue 
+}
+
+.centering-image {
+	text-align: center;
+} 
+
+.centering-link {
+	text-align: center
+}
