@@ -4,13 +4,23 @@ body {
 	font-family: open sans; 
 }
 h1 { 
-	background-color:deepskyblue 
+	background-color:deepskyblue; 
 }
+
+.my-container { 
+	border: double;
+	border-color: cornflowerblue;
+}  
+
+#bottom { 
+text-align: left;
+	text-decoration:underline
+}     
 
 .centering-image {
 	text-align: center;
 } 
 
 .centering-link {
-	text-align: center
+	text-align: center;
 }
