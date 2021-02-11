@@ -1,26 +1,44 @@
+@charset "utf-8";
+
+* { padding: 0;
+margin: 0;}
+
 body {
 	background-color: aliceblue;
 	color: rebeccapurple;
 	font-family: open sans; 
 }
-h1 { 
-	background-color:deepskyblue; 
+
+header { 
+	background-image: url("../images/sea-otterheader.jpg");
+	padding-top: 20px;
+	padding-bottom: 30px;
+	background-size: cover;
+	background-repeat: no-repeat;
+		background-position: center;
+	color: black;
 }
 
 .my-container { 
 	border: double;
 	border-color: cornflowerblue;
+	text-align: center;
 }  
 
-#last-paragraph { 
-text-align: left;
-	text-decoration:underline 
+#paragraph { 
+text-align:left;
+	
 }     
 
 .centering-image {
 	text-align: center;
+	
 } 
 
 .centering-link {
 	text-align: center;
+}
+
+footer {
+	text-align: right
 }
