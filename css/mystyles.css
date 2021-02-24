@@ -6,7 +6,7 @@ margin: 0;}
 body {
 	background-color: aliceblue;
 	color: rebeccapurple;
-	font-family: open sans; 
+	font-family: 'Raleway', sans-serif;
 }
 
 header { 
@@ -27,7 +27,10 @@ header {
 
 #paragraph { 
 text-align:left;
-	
+	padding-left: 80px; 
+	padding-right: 80px;
+	padding-bottom: 20px;
+		
 }     
 
 .centering-image {
@@ -40,5 +43,5 @@ text-align:left;
 }
 
 footer {
-	text-align: right
+	text-align: right;
 }
