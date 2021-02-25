@@ -23,6 +23,7 @@ header {
 	border: double;
 	border-color: cornflowerblue;
 	text-align: center;
+	background-color: lightblue;
 }  
 
 #paragraph { 
